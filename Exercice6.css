@@ -1,36 +1,44 @@
-.Vert1 { background-color:rgb(46,204,113);
-	     width:75%; height:5%;
-	     float:left; }
+.Vert1 {
+background-color:rgb(46,204,113);
+width:75%; height:40px;
+float:left; }
 
-.Bleu { background-color:rgb(41,128,185);
-	    width:75%; height:5%;
-	    float:left; }
-	    
-.Rouge { background-color:rgb(231,76,60);
-	     width:33.33%%; height:25%;
-	     float:left; }
-	    
-.Orange { background-color:rgb(230,126,34);
-	      width:33.33%; height:12.5%;
-	      float:left; }
-	     
-.Gris { background-color:rgb(149,165,169);
-	    width:33.33%; height:12.5%;
-	    float:left; }
-	    
-.Jaune { background-color:rgb(243,156,18);
-	     width:22.22%; height:12.5%;
-	     float:left; }
+.Bleu {
+background-color:rgb(41,128,185);
+width:25%; height:40px;
+float:left; }
 
-.Vert2 { background-color:rgb(22,160,133);
-	     width:22.22%; height:12.5%;
-	     float:left; }
+.Rouge {
+background-color:rgb(231,76,60);
+width:33.33%; height:140px;
+float:left; }
 
-.Marron { background-color:rgb(211,84,0);
-	     width:22.22%; height:12.5%;
-	     float:left; }
+.Orange {
+background-color:rgb(230,126,34);
+width:33.33%; height:70px;
+float:left; }
 
-.Noir { background-color:rgb(44,62,80);
-	    width:100%; height:30%;
-	    float:left; }
-	    
+.Gris {
+background-color:rgb(149,165,169);
+width:33.33%; height:70px;
+float:left; }
+
+.Jaune {
+background-color:rgb(243,156,18);
+width:22.22%; height:70px;
+float:left; }
+
+.Vert2 {
+background-color:rgb(22,160,133);
+width:22.22%; height:70px;
+float:left; }
+
+.Marron {
+background-color:rgb(211,84,0);
+width:22.22%; height:70px;
+float:left; }
+
+.Noir {
+background-color:rgb(44,62,80);
+width:100%; height:230px;
+float:left; }
